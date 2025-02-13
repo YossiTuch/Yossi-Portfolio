@@ -79,6 +79,11 @@ body {
   text-align: center;
 }
 
+#js-projects {
+  height: 140vh;
+  text-align: center;
+}
+
 .project-section {
   height: 100%;
   padding: 100px 300px;
@@ -203,6 +208,10 @@ div .card {
     height: auto;
   }
 
+  #js-projects {
+    height: auto;
+  }
+
   #contact {
     height: auto;
     padding-top: 10vh;
@@ -308,11 +317,11 @@ div .card {
     margin-top: 40px;
   }
 
-  .footer{
+  .footer {
     height: 29px;
   }
 
-  .footer div{
+  .footer div {
     font: normal normal 300 9px/13px Heebo;
   }
 }
