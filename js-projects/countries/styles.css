@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.img{
+    height: 35%;
+}
+
+.fa{
+    font-size: 1.5rem;
+    transition: 0.5s;
+}
+.fa:hover{
+    cursor: pointer;
+    transform: scale(1.2);
+}
