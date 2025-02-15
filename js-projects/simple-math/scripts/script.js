@@ -59,7 +59,6 @@ const showScore = () => {
   gameContainer.appendChild(p);
 };
 
-// TODO
 const game = () => {
   gameContainer.innerHTML = '';
   if (count === 10) {
