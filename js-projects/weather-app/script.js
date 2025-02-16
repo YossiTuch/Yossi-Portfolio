@@ -1,5 +1,4 @@
-import { WEATHER_APP_KEY } from "../../key.js";
-const API_KEY = WEATHER_APP_KEY;
+const API_KEY = '0709abd7f244f4c863b01f660fc8fa71';
 const URL = `https://api.openweathermap.org/data/2.5/weather?appid=${API_KEY}&units=metric&q=`;
 
 const q = document.getElementById('input-city');
