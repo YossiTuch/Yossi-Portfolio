@@ -16,7 +16,7 @@ const getWeather = async city => {
 
     displayWeather(data);
   } catch (e) {
-    console.log(e);
+    alert('Something Went Wrong');
   }
 };
 

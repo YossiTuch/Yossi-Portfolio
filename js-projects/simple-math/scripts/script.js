@@ -12,8 +12,6 @@ const createProblemAndAppend = () => {
 
   const problem = num1 + ' ' + operator + ' ' + num2;
   const solution = calc(num1, num2, operator);
-  console.log(solution);
-  
 
   const problemElement = document.createElement('p');
   problemElement.id = 'problem';

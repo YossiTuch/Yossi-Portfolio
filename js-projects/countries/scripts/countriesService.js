@@ -4,6 +4,7 @@ const getCountries = async () => {
     return await res.json();
   } catch (error) {
     console.error('Failed to fetch countries: ', error);
+    alert('Something Went Wrong');
   }
 };
 
