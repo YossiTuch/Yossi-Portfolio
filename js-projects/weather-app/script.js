@@ -28,7 +28,6 @@ const displayWeather = weatherData => {
     weatherIcon.src = `https://openweathermap.org/img/wn/${weatherData.weather[0].icon}@2x.png`;
     weatherIcon.alt = weatherData.name;
     description.innerText = weatherData.weather[0].description;
-    console.log(weatherData);
   } else {
     h1.innerText = '';
     temp.innerText = '';
