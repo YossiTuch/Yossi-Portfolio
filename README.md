@@ -31,4 +31,4 @@ Welcome to my portfolio! This repository showcases my web development skills thr
 ## Contact
 For any inquiries or feedback, feel free to reach out:
 - **Email**: yossi6435@gmail.com
-- **GitHub**: github.com/YossiTuch
+- **GitHub**: YossiTuch
